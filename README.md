@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi I am Thiha. I study Computer Engineering at Cal Poly SLO. 👋
+### I am fairly new to Github and hope to explore more.
 
 <!--
 **thimask/thimask** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
